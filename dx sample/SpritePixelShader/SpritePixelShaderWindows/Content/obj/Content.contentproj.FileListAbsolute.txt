@@ -1,0 +1,1 @@
+C:\XNASrc\source\platform\private\ue\rsrc\samples\cs\2DGraphicsSamples\SpritePixelShader\SpritePixelShaderWindows\Content\obj\x86\Debug\ResolveAssemblyReference.cache

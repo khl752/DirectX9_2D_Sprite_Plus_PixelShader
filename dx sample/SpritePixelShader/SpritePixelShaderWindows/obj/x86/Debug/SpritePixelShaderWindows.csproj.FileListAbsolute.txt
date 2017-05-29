@@ -1,0 +1,8 @@
+C:\XNASrc\source\platform\private\ue\rsrc\samples\cs\2DGraphicsSamples\SpritePixelShader\SpritePixelShaderWindows\bin\x86\Debug\Content\ripple.xnb
+C:\XNASrc\source\platform\private\ue\rsrc\samples\cs\2DGraphicsSamples\SpritePixelShader\SpritePixelShaderWindows\bin\x86\Debug\Content\grid.xnb
+C:\XNASrc\source\platform\private\ue\rsrc\samples\cs\2DGraphicsSamples\SpritePixelShader\SpritePixelShaderWindows\bin\x86\Debug\SpritePixelShader.exe
+C:\XNASrc\source\platform\private\ue\rsrc\samples\cs\2DGraphicsSamples\SpritePixelShader\SpritePixelShaderWindows\bin\x86\Debug\SpritePixelShader.pdb
+C:\XNASrc\source\platform\private\ue\rsrc\samples\cs\2DGraphicsSamples\SpritePixelShader\SpritePixelShaderWindows\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\XNASrc\source\platform\private\ue\rsrc\samples\cs\2DGraphicsSamples\SpritePixelShader\SpritePixelShaderWindows\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\XNASrc\source\platform\private\ue\rsrc\samples\cs\2DGraphicsSamples\SpritePixelShader\SpritePixelShaderWindows\obj\x86\Debug\SpritePixelShader.exe
+C:\XNASrc\source\platform\private\ue\rsrc\samples\cs\2DGraphicsSamples\SpritePixelShader\SpritePixelShaderWindows\obj\x86\Debug\SpritePixelShader.pdb

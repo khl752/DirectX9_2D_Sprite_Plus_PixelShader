@@ -1,0 +1,8 @@
+C:\XNASrc\source\platform\private\ue\rsrc\samples\cs\2DGraphicsSamples\SpritePixelShader\SpritePixelShaderXbox\bin\Xbox 360\Debug\Content\ripple.xnb
+C:\XNASrc\source\platform\private\ue\rsrc\samples\cs\2DGraphicsSamples\SpritePixelShader\SpritePixelShaderXbox\bin\Xbox 360\Debug\Content\grid.xnb
+C:\XNASrc\source\platform\private\ue\rsrc\samples\cs\2DGraphicsSamples\SpritePixelShader\SpritePixelShaderXbox\bin\Xbox 360\Debug\SpritePixelShaderXbox.exe
+C:\XNASrc\source\platform\private\ue\rsrc\samples\cs\2DGraphicsSamples\SpritePixelShader\SpritePixelShaderXbox\bin\Xbox 360\Debug\SpritePixelShaderXbox.pdb
+C:\XNASrc\source\platform\private\ue\rsrc\samples\cs\2DGraphicsSamples\SpritePixelShader\SpritePixelShaderXbox\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\XNASrc\source\platform\private\ue\rsrc\samples\cs\2DGraphicsSamples\SpritePixelShader\SpritePixelShaderXbox\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\XNASrc\source\platform\private\ue\rsrc\samples\cs\2DGraphicsSamples\SpritePixelShader\SpritePixelShaderXbox\obj\Xbox 360\Debug\SpritePixelShaderXbox.exe
+C:\XNASrc\source\platform\private\ue\rsrc\samples\cs\2DGraphicsSamples\SpritePixelShader\SpritePixelShaderXbox\obj\Xbox 360\Debug\SpritePixelShaderXbox.pdb
